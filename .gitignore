@@ -1,3 +1,5 @@
 config.json
 config.ini
 keys.json
+.env
+setting/
